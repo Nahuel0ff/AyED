@@ -10,7 +10,7 @@ public class Numero {
 	
 	public static void usandoFor(int a, int b) {
 			for (int i=a; i<=b; i++) {
-				System.out.println(i););
+				System.out.println(i);
 			}
 	}
 	
